@@ -1,3 +1,6 @@
+Section 2 Case Study
+n8n practical Link🔗 https://dembiz.app.n8n.cloud/workflow/jPwvi7mF4EHQRWri 
+
 Section 1: Short Answer Questions
 1. Compare and contrast LangChain and AutoGen frameworks. Discuss their core functionalities, ideal use cases, and key limitations.
 LangChain and AutoGen are prominent frameworks for building LLM-powered applications, but they target different levels of abstraction and collaboration.
@@ -88,3 +91,4 @@ Continuity: A customer service agent must remember the user's previous issues an
 Strategic Planning: An agent managing a supply chain cannot make a good decision about Q4 inventory in isolation; it must remember and reason over Q1-Q3 performance, supplier negotiations from six months ago, and long-term contracts.
 
 Learning and Adaptation: Memory is the foundation of learning. An agent that cannot remember its failures and successes cannot improve its performance over time, a key requirement for autonomous operation.
+
